@@ -1,0 +1,6 @@
+Four steps to happy and successeed life!
+Step 1: Add /lib/firmware/ath10k dir if not exists  
+Step 2: Copy files from ./wifi-setup-pack/ath10k to created dir
+Step 3: Copy board.bin to /lib/firmware/ath10k/QCA6174/hw3.0
+Step 4: Reload your system
+All done!
